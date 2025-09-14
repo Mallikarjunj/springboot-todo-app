@@ -1,0 +1,21 @@
+# Built application files
+*.jar
+*.war
+*.ear
+target/
+
+# Log files
+*.log
+
+# IDE files
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
